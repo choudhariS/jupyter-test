@@ -1,0 +1,8 @@
+opencv-python
+kubernetes
+swat
+saspy
+xgboost
+scikit-learn
+matplotlib
+lightgbm
