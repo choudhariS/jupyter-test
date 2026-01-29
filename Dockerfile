@@ -3,7 +3,7 @@ WORKDIR /workspace
 
 USER root
 RUN apt-get update \
- && apt-get install -y build-essentials \
+ && apt-get install -y build-essential \
  && rm -rf /var/lib/apt/lists/*
 
 USER jovyan
