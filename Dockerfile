@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM jupyter/base-notebook:python-3.10
 WORKDIR /workspace
 
 USER root
