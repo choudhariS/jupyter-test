@@ -4,8 +4,8 @@ image:
 
 service:
   type: ClusterIP
-  port: "8888"
-  targetPort: "8888"
+  port: 8888
+  targetPort: 8888
 
 resources:
   requests:
